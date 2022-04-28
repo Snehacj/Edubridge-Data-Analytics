@@ -14,6 +14,7 @@
       <li>Data analysis</li>
       <li>Data visualization</li>
       <li>Statistics</li>
+      <li>R</li>
     </ul>
     <h2>Contents</h2>
     <ul>
