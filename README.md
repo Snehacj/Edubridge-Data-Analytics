@@ -18,7 +18,7 @@
     <h2>Contents</h2>
     <ul>
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Assignments"><br/>1)Assignments</a>
-      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects"><br/>1)Projects</a>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects"><br/>2)Projects</a>
     </ul>
   </body
     </html>
