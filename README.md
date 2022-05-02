@@ -30,7 +30,7 @@
     <h2>Projects</h2>
     <ul>
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Data%20analysis%20-%20Heart%20disease"><br/>1)Data analysis - Heart disease</a>
-      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Excel%20data%20analysing:-%20Cervical%20%20cancer"<<br/>2)Excel data analysing:- Cervical cancer</a>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Excel%20data%20analysing:-%20Cervical%20%20cancer"><br/>2)Excel data analysing:- Cervical cancer</a>
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Simple%20game"><br/>3)Simple game</a>
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Superstore%20data%20analysis"><br/>4)Superstore data analysis</a>
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Video%20games%20sales%20analysis"><br/>5)Video games sales analysis</a>
