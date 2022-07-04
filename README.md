@@ -3,7 +3,7 @@
   <h1>Edubridge_Data_Analytics</h1>
   </head>
   <body>
-    This repository contains all the projects, Assignments and challenges od data analytics ,presented in the form of jupyter notebook ,pdf.
+    This repository contains all the projects done during my training at EduBridge during Dec-2021 - May 2022 presented in the form of jupyter notebook ,pdf
     <h2>Tools</h2>
     <ul>
       <li>Python:Python3, Numpy, Pandas, Seaborn, Matplotlib</li>
