@@ -37,6 +37,7 @@
     <dl>
     <li><dt>Data Visualization using Excel and Tableau</dt></li>
     <dd><a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Excel%20data%20analysing:-%20Cervical%20%20cancer"><br/>- Cervical cancer</a></dd>
+    <dd><a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Tableau"><br/>- Superstore data Dashboard</a></dd>
     </dl>
     <dl>
     <li><dt>EDA using Python</dt></li>
