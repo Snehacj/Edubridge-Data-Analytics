@@ -20,8 +20,8 @@
     </ul>
     <h2>Contents</h2>
     <ul>
-      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Assignments"><br/><li>* Assignments</a></li>
-      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects"><br/><li>* Projects</a></li>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Assignments"><br/><li> Assignments</a></li>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects"><br/><li> Projects</a></li>
     </ul>
     <h2>Assignments</h2>
     <ul>
@@ -36,7 +36,7 @@
     <ul>
     <dl>
     <li><dt>Data Visualization using Excel and Tableau</dt></li>
-    <dd><a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Excel%20data%20analysing:-%20Cervical%20%20cancer"><br/>- Cervical cancer</a</dd>
+    <dd><a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Excel%20data%20analysing:-%20Cervical%20%20cancer"><br/>- Cervical cancer</a></dd>
     </dl>
     <dl>
     <li><dt>EDA using Python</dt></li>
