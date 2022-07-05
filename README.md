@@ -46,6 +46,8 @@
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Simple%20game"><br/>Simple game</a>
     <li>Wordcloud</li>
       <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Wordcloud"><br/>Wordcloud</a>
+    <li> Web Scrapping</li>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Web%20Scrapping"><br/>Flipkart</a>
     <li> Machine Learning Case Studies :</li>
     </ul>
   </body
